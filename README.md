@@ -3,6 +3,7 @@
 ## Javascript
 * [I never understood JavaScript closures](https://medium.com/dailyjs/i-never-understood-javascript-closures-9663703368e8])
 * [Why \['1', '7', '11'\].map(parseInt) returns \[1, NaN, 3\] in Javascript](https://medium.com/dailyjs/parseint-mystery-7c4368ef7b21)
+* [How to Remove Array Duplicates in ES6](https://medium.com/dailyjs/how-to-remove-array-duplicates-in-es6-5daa8789641c)
 
 ## ESLint
 * [Adding ESlint to Your Project](https://medium.com/dailyjs/adding-eslint-to-your-project-7bd4feca35a8)
