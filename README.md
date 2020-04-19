@@ -24,3 +24,6 @@
 
 ## Gulp
 * [How to automate all the things with Gulp](https://hackernoon.com/how-to-automate-all-the-things-with-gulp-b21a3fc96885)
+
+## Comparison
+* [Angular vs. React vs. Vue: A performance comparison](https://blog.logrocket.com/angular-vs-react-vs-vue-a-performance-comparison/)
