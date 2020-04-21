@@ -4,12 +4,14 @@
 * [I never understood JavaScript closures](https://medium.com/dailyjs/i-never-understood-javascript-closures-9663703368e8])
 * [Why \['1', '7', '11'\].map(parseInt) returns \[1, NaN, 3\] in Javascript](https://medium.com/dailyjs/parseint-mystery-7c4368ef7b21)
 * [How to Remove Array Duplicates in ES6](https://medium.com/dailyjs/how-to-remove-array-duplicates-in-es6-5daa8789641c)
-* [Function Debouncing with Underscore.js](https://davidwalsh.name/function-debounce)
+* Underscore.js
+  * [Function Debouncing with Underscore.js](https://davidwalsh.name/function-debounce)
+  * [A closer look at Underscore templates](https://2ality.com/2012/06/underscore-templates.html)
 
 ## HTML
 * [Avoid Favicon http request in index.html](https://stackoverflow.com/questions/5199902/isnt-it-silly-that-a-tiny-favicon-requires-yet-another-http-request-how-can-i)
 * [SEO :: Why Canonical Tags are Essential](https://www.deepcrawl.com/blog/best-practice/why-canonical-tags-are-essential/)
-    * [Wiki-Canonical link element](https://en.wikipedia.org/wiki/Canonical_link_element)
+  * [Wiki-Canonical link element](https://en.wikipedia.org/wiki/Canonical_link_element)
 * [Service Workers replacing AppCache: a sledgehammer to crack a nut](https://medium.com/@firt/service-workers-replacing-appcache-a-sledgehammer-to-crack-a-nut-5db6f473cc9b)
 
 ## ESLint
@@ -25,6 +27,13 @@
 
 ## Vue
 * [Production-ready Vue SSR in 5 Simple Steps](https://www.namecheap.com/blog/production-ready-vue-ssr-in-5-simple-steps/)
+* [How to create a Vue.js app using Single-File Components, without the CLI.](https://www.freecodecamp.org/news/how-to-create-a-vue-js-app-using-single-file-components-without-the-cli-7e73e5b8244f/)
+* [Browserify + Vueify build github project (browserify-simple)](https://github.com/vuejs-templates/browserify-simple/tree/master/template)
+* Vue + Typescript
+  * [How to Integrate Typescript with Vue.Js](https://blog.theodo.com/2019/11/integrate-typescript-with-vue/)
+  * [How to write a Vue.js app completely in TypeScript](https://blog.logrocket.com/how-to-write-a-vue-js-app-completely-in-typescript/)
+  * For tsconfig file only ===> [Using TypeScript with Vue Single File Components](https://alligator.io/vuejs/using-typescript-with-vue/)
+
 
 ## Webpack
 * [Enable source-map on production?](https://medium.com/@sujankanwar/enable-source-map-on-production-f2f53c5f4345)
