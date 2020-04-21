@@ -4,6 +4,13 @@
 * [I never understood JavaScript closures](https://medium.com/dailyjs/i-never-understood-javascript-closures-9663703368e8])
 * [Why \['1', '7', '11'\].map(parseInt) returns \[1, NaN, 3\] in Javascript](https://medium.com/dailyjs/parseint-mystery-7c4368ef7b21)
 * [How to Remove Array Duplicates in ES6](https://medium.com/dailyjs/how-to-remove-array-duplicates-in-es6-5daa8789641c)
+* [Function Debouncing with Underscore.js](https://davidwalsh.name/function-debounce)
+
+## HTML
+* [Avoid Favicon http request in index.html](https://stackoverflow.com/questions/5199902/isnt-it-silly-that-a-tiny-favicon-requires-yet-another-http-request-how-can-i)
+* [SEO :: Why Canonical Tags are Essential](https://www.deepcrawl.com/blog/best-practice/why-canonical-tags-are-essential/)
+    * [Wiki-Canonical link element](https://en.wikipedia.org/wiki/Canonical_link_element)
+* [Service Workers replacing AppCache: a sledgehammer to crack a nut](https://medium.com/@firt/service-workers-replacing-appcache-a-sledgehammer-to-crack-a-nut-5db6f473cc9b)
 
 ## ESLint
 * [Adding ESlint to Your Project](https://medium.com/dailyjs/adding-eslint-to-your-project-7bd4feca35a8)
