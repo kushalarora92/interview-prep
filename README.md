@@ -29,14 +29,17 @@
 * [Production-ready Vue SSR in 5 Simple Steps](https://www.namecheap.com/blog/production-ready-vue-ssr-in-5-simple-steps/)
 * [How to create a Vue.js app using Single-File Components, without the CLI.](https://www.freecodecamp.org/news/how-to-create-a-vue-js-app-using-single-file-components-without-the-cli-7e73e5b8244f/)
 * [Browserify + Vueify build github project (browserify-simple)](https://github.com/vuejs-templates/browserify-simple/tree/master/template)
+* [4 Ways To Boost Your Vue.js App With Webpack](https://vuejsdevelopers.com/2017/06/18/vue-js-boost-your-app-with-webpack/)
 * Vue + Typescript
   * [How to Integrate Typescript with Vue.Js](https://blog.theodo.com/2019/11/integrate-typescript-with-vue/)
   * [How to write a Vue.js app completely in TypeScript](https://blog.logrocket.com/how-to-write-a-vue-js-app-completely-in-typescript/)
   * For tsconfig file only ===> [Using TypeScript with Vue Single File Components](https://alligator.io/vuejs/using-typescript-with-vue/)
+  * [ts-loader ::: github](https://github.com/TypeStrong/ts-loader)
 
 
 ## Webpack
 * [Enable source-map on production?](https://medium.com/@sujankanwar/enable-source-map-on-production-f2f53c5f4345)
+* [Using sourcemaps on production without exposing the source code 🕵️‍](https://itnext.io/using-sourcemaps-on-production-without-revealing-the-source-code-%EF%B8%8F-d41e78e20c89)
 
 ## Gulp
 * [How to automate all the things with Gulp](https://hackernoon.com/how-to-automate-all-the-things-with-gulp-b21a3fc96885)
