@@ -56,4 +56,9 @@
 
 ## Angular
 * [Why I Prefer NGXS over NGRX](https://blog.singular.uk/why-i-prefer-ngxs-over-ngrx-df727cd868b5) - [lead-StackOverflow](https://stackoverflow.com/a/52211855/2562435)
-* 
+* Angular Folder Structure
+  * Base Structure - [Angular Folder Structure](https://medium.com/@motcowley/angular-folder-structure-d1809be95542)
+  * core modules / services to include can be found [here](https://itnext.io/choosing-a-highly-scalable-folder-structure-in-angular-d987de65ec7)
+* Login / Auth Module
+  * [Angular 9 - JWT Authentication Example & Tutorial](https://jasonwatmore.com/post/2020/04/19/angular-9-jwt-authentication-example-tutorial)
+* [Ability to configure output path for source maps #13508](https://github.com/angular/angular-cli/issues/13508) ? Not required, we can use [`hidden source maps`](https://github.com/angular/angular-cli/pull/13062).  
