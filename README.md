@@ -18,10 +18,22 @@
   * [Wiki-Canonical link element](https://en.wikipedia.org/wiki/Canonical_link_element)
 * [Service Workers replacing AppCache: a sledgehammer to crack a nut](https://medium.com/@firt/service-workers-replacing-appcache-a-sledgehammer-to-crack-a-nut-5db6f473cc9b)
 
+## CSS
+* [How to structure a Sass project](http://thesassway.com/beginner/how-to-structure-a-sass-project)
+* [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+
 ## ESLint
 * [Adding ESlint to Your Project](https://medium.com/dailyjs/adding-eslint-to-your-project-7bd4feca35a8)
 * [Setting up ESLint on VS Code with Airbnb JavaScript Style Guide](https://travishorn.com/setting-up-eslint-on-vs-code-with-airbnb-javascript-style-guide-6eb78a535ba6)
 * [Why (and how) to use eslint in your project](https://medium.com/the-node-js-collection/why-and-how-to-use-eslint-in-your-project-742d0bc61ed7)
+
+## Node
+* [Node Best Practices ](https://github.com/goldbergyoni/nodebestpractices)
+* [Logging in a Node.js Express app with Morgan and Bunyan](https://medium.com/@tobydigz/logging-in-a-node-express-app-with-morgan-and-bunyan-30d9bf2c07a)
+* [Building a NodeJS Web App Using PassportJS for Authentication](https://dev.to/gm456742/building-a-nodejs-web-app-using-passportjs-for-authentication-3ge2)
+* Sequelize.js
+  * [How to use Sequelize with Node and Express](https://www.codementor.io/@mirko0/how-to-use-sequelize-with-node-and-express-i24l67cuz) - Table Relationships
+  * [Use Sequelize ORM with Node JS Project](https://hackernoon.com/integrating-rabbitmq-with-nodejs-3f3u32cx) - types, poling
 
 ## Node-Docker
 * [Dockerizing a Node.js web app](https://nodejs.org/fr/docs/guides/nodejs-docker-webapp)
@@ -61,4 +73,8 @@
   * core modules / services to include can be found [here](https://itnext.io/choosing-a-highly-scalable-folder-structure-in-angular-d987de65ec7)
 * Login / Auth Module
   * [Angular 9 - JWT Authentication Example & Tutorial](https://jasonwatmore.com/post/2020/04/19/angular-9-jwt-authentication-example-tutorial)
-* [Ability to configure output path for source maps #13508](https://github.com/angular/angular-cli/issues/13508) ? Not required, we can use [`hidden source maps`](https://github.com/angular/angular-cli/pull/13062).  
+* [Ability to configure output path for source maps #13508](https://github.com/angular/angular-cli/issues/13508) ? Not required, we can use [`hidden source maps`](https://github.com/angular/angular-cli/pull/13062)
+
+## For Reference Only
+* [Logo Design](https://www.freelogodesign.org)
+* [HTML Color Names](https://htmlcolorcodes.com/color-names/)
