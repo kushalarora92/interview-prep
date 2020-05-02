@@ -75,6 +75,18 @@
   * [Angular 9 - JWT Authentication Example & Tutorial](https://jasonwatmore.com/post/2020/04/19/angular-9-jwt-authentication-example-tutorial)
 * [Ability to configure output path for source maps #13508](https://github.com/angular/angular-cli/issues/13508) ? Not required, we can use [`hidden source maps`](https://github.com/angular/angular-cli/pull/13062)
 
+## Database
+* [PostgreSQL vs MySQL: What's the Difference? ](https://www.guru99.com/postgresql-vs-mysql-difference.html)
+
 ## For Reference Only
 * [Logo Design](https://www.freelogodesign.org)
 * [HTML Color Names](https://htmlcolorcodes.com/color-names/)
+
+## Temp - To validate
+* [How To Build Authentication in Angular Using Node and Passport](https://blog.jscrambler.com/setting-up-authentication-using-angular-node-and-passport/)
+* [How to Protect Angular Code Against Theft and Reverse-Engineering](https://blog.jscrambler.com/how-to-protect-angular-code-against-theft-and-reverse-engineering/)
+* WIP --- sequelize-demo [Getting Started with Node, Express and Mysql Using Sequelize](https://medium.com/@prajramesh93/getting-started-with-node-express-and-mysql-using-sequelize-ed1225afc3e0)
+* [Adding Sequelize To Your Node.js App](https://medium.com/mtholla/integrating-sequelize-into-your-node-app-a446353fb5ee)
+* [Sequelize](https://sequelize.org/v5/index.html)
+* [Sequelize, the JavaScript ORM, in practice](http://www.redotheweb.com/2013/02/20/sequelize-the-javascript-orm-in-practice.html)
+* Check Node Section
