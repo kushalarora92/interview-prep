@@ -7,6 +7,7 @@
 * [Exploring EcmaScript Decorators](https://medium.com/google-developers/exploring-es7-decorators-76ecb65fb841#.x5c2ndtx0)
 * [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/#constructorpatternjavascript)
 * ES6 syntax based - [JavaScript Design Patterns](https://medium.com/better-programming/javascript-design-patterns-25f0faaaa15)
+* [javascript-algorithm](https://github.com/trekhleb/javascript-algorithms)
 
 ## Underscore.js
   * [Function Debouncing with Underscore.js](https://davidwalsh.name/function-debounce)
@@ -31,9 +32,16 @@
 * [Node Best Practices ](https://github.com/goldbergyoni/nodebestpractices)
 * [Logging in a Node.js Express app with Morgan and Bunyan](https://medium.com/@tobydigz/logging-in-a-node-express-app-with-morgan-and-bunyan-30d9bf2c07a)
 * [Building a NodeJS Web App Using PassportJS for Authentication](https://dev.to/gm456742/building-a-nodejs-web-app-using-passportjs-for-authentication-3ge2)
+* [Learn using JWT with Passport authentication](https://medium.com/front-end-weekly/learn-using-jwt-with-passport-authentication-9761539c4314) - Followed
+* [Invalidating JSON Web Tokens](https://stackoverflow.com/questions/21978658/invalidating-json-web-tokens)
 * Sequelize.js
   * [How to use Sequelize with Node and Express](https://www.codementor.io/@mirko0/how-to-use-sequelize-with-node-and-express-i24l67cuz) - Table Relationships
   * [Use Sequelize ORM with Node JS Project](https://hackernoon.com/integrating-rabbitmq-with-nodejs-3f3u32cx) - types, poling
+  * Get started by reading this [migrations](https://sequelize.org/master/manual/migrations.html) doc
+  * [Composite Keys in sequelize](https://gist.github.com/lucasscariot/5b8747fbc8a6948a805c646fae4ceef8)
+  * [Model/types reference only](https://khalilstemmler.com/articles/fixing-sequelize-models-with-migrations/)
+  * [Query Interface doc - used for writing migrations](https://sequelize.org/master/class/lib/dialects/abstract/query-interface.js~QueryInterface.html#instance-method-changeColumn)
+  * Ref. project - [sequelize-demo/__test3](https://github.com/kushalarora92/sequelize-demo/tree/master/__test3)
 
 ## Node-Docker
 * [Dockerizing a Node.js web app](https://nodejs.org/fr/docs/guides/nodejs-docker-webapp)
@@ -81,6 +89,8 @@
 ## For Reference Only
 * [Logo Design](https://www.freelogodesign.org)
 * [HTML Color Names](https://htmlcolorcodes.com/color-names/)
+* [How To Install PostgreSQL 12 on Ubuntu 20.04/18.04/16.04](https://computingforgeeks.com/install-postgresql-12-on-ubuntu/)
+* [Install PGADMIN4 on Ubuntu 20.04 LTS](https://askubuntu.com/a/1231676)
 
 ## Temp - To validate
 * [How To Build Authentication in Angular Using Node and Passport](https://blog.jscrambler.com/setting-up-authentication-using-angular-node-and-passport/)
