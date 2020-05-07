@@ -83,6 +83,11 @@
   * [Angular 9 - JWT Authentication Example & Tutorial](https://jasonwatmore.com/post/2020/04/19/angular-9-jwt-authentication-example-tutorial)
 * [Ability to configure output path for source maps #13508](https://github.com/angular/angular-cli/issues/13508) ? Not required, we can use [`hidden source maps`](https://github.com/angular/angular-cli/pull/13062)
 
+## React
+* [Getting Started with React](https://www.taniarascia.com/getting-started-with-react)
+* [Thinking in react](https://reactjs.org/docs/thinking-in-react.html)
+* [Getting Started](https://reactjs.org/docs/getting-started.html)
+
 ## Database
 * [PostgreSQL vs MySQL: What's the Difference? ](https://www.guru99.com/postgresql-vs-mysql-difference.html)
 
