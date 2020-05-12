@@ -82,6 +82,7 @@
 * Login / Auth Module
   * [Angular 9 - JWT Authentication Example & Tutorial](https://jasonwatmore.com/post/2020/04/19/angular-9-jwt-authentication-example-tutorial)
 * [Ability to configure output path for source maps #13508](https://github.com/angular/angular-cli/issues/13508) ? Not required, we can use [`hidden source maps`](https://github.com/angular/angular-cli/pull/13062)
+* [Angular Architecture - Container vs Presentational Components Common Design Pitfalls](https://blog.angular-university.io/angular-component-design-how-to-avoid-custom-event-bubbling-and-extraneous-properties-in-the-local-component-tree/) - Part of Angular Architecture series -- links in the article 
 
 ## React
 * [Getting Started with React](https://www.taniarascia.com/getting-started-with-react)
