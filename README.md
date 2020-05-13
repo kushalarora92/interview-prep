@@ -92,6 +92,17 @@
 ## Database
 * [PostgreSQL vs MySQL: What's the Difference? ](https://www.guru99.com/postgresql-vs-mysql-difference.html)
 
+## JWT-Cookies-vs-LocalStorage-PLUS-Security-Vulnerabilities
+* [Express doesn't set a cookie](https://stackoverflow.com/a/42735038/2562435)
+* [Express doesn't set a cookie](https://stackoverflow.com/a/59995621/2562435)
+* [Sessionless Authentication using JWTs (with Node + Express + Passport JS)](https://blog.usejournal.com/sessionless-authentication-withe-jwts-with-node-express-passport-js-69b059e4b22c)
+* [Angular Security - Authentication With JSON Web Tokens (JWT): The Complete Guide](https://blog.angular-university.io/angular-jwt-authentication/) - with coolie & Localstorage with RSA
+* [How to generate jwt rs256 key](https://gist.github.com/ygotthilf/baa58da5c3dd1f69fae9)
+* [Where to Store your JWTs – Cookies vs HTML5 Web Storage](https://stormpath.com/blog/where-to-store-your-jwts-cookies-vs-html5-web-storage)
+* [Should JWT be stored in localStorage or cookie?](https://stackoverflow.com/questions/34817617/should-jwt-be-stored-in-localstorage-or-cookie)
+* Okishh --- [JWT authentication: When and how to use it](https://blog.logrocket.com/jwt-authentication-best-practices/)
+* Must Know --- [How to implement CSRF protection on a JWT-based app (Node, csurf , Angular)](https://medium.com/@d.silvas/how-to-implement-csrf-protection-on-a-jwt-based-app-node-csurf-angular-bb90af2a9efd)
+
 ## For Reference Only
 * [Logo Design](https://www.freelogodesign.org)
 * [HTML Color Names](https://htmlcolorcodes.com/color-names/)
