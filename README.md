@@ -83,6 +83,7 @@
   * [Angular 9 - JWT Authentication Example & Tutorial](https://jasonwatmore.com/post/2020/04/19/angular-9-jwt-authentication-example-tutorial)
 * [Ability to configure output path for source maps #13508](https://github.com/angular/angular-cli/issues/13508) ? Not required, we can use [`hidden source maps`](https://github.com/angular/angular-cli/pull/13062)
 * [Angular Architecture - Container vs Presentational Components Common Design Pitfalls](https://blog.angular-university.io/angular-component-design-how-to-avoid-custom-event-bubbling-and-extraneous-properties-in-the-local-component-tree/) - Part of Angular Architecture series -- links in the article 
+* [Configure a proxy for your API calls with Angular CLI](https://juristr.com/blog/2016/11/configure-proxy-api-angular-cli/)
 
 ## React
 * [Getting Started with React](https://www.taniarascia.com/getting-started-with-react)
@@ -92,7 +93,7 @@
 ## Database
 * [PostgreSQL vs MySQL: What's the Difference? ](https://www.guru99.com/postgresql-vs-mysql-difference.html)
 
-## JWT-Cookies-vs-LocalStorage-PLUS-Security-Vulnerabilities
+## Security ::: JWT-Cookies-vs-LocalStorage-PLUS-Security-Vulnerabilities
 * [Express doesn't set a cookie](https://stackoverflow.com/a/42735038/2562435)
 * [Express doesn't set a cookie](https://stackoverflow.com/a/59995621/2562435)
 * [Sessionless Authentication using JWTs (with Node + Express + Passport JS)](https://blog.usejournal.com/sessionless-authentication-withe-jwts-with-node-express-passport-js-69b059e4b22c)
@@ -102,6 +103,8 @@
 * [Should JWT be stored in localStorage or cookie?](https://stackoverflow.com/questions/34817617/should-jwt-be-stored-in-localstorage-or-cookie)
 * Okishh --- [JWT authentication: When and how to use it](https://blog.logrocket.com/jwt-authentication-best-practices/)
 * Must Know --- [How to implement CSRF protection on a JWT-based app (Node, csurf , Angular)](https://medium.com/@d.silvas/how-to-implement-csrf-protection-on-a-jwt-based-app-node-csurf-angular-bb90af2a9efd)
+* [XSRF Protection with Angular](https://levelup.gitconnected.com/xsrf-protection-with-angular-and-express-d084c6e57da5)
+
 
 ## For Reference Only
 * [Logo Design](https://www.freelogodesign.org)
