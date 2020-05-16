@@ -1,0 +1,12 @@
+<div class="search-box-container">
+  <form [formGroup]="searchForm" (ngSubmit)="onSubmit()">
+    <div class="form-group">
+      <!-- <label for="searchText">Enter Search Text</label> -->
+      <input type="text" id="searchText" formControlName="searchText" placeholder="Enter Text" class="form-control" [ngClass]="{'is-invalid': submitted && f.searchText.errors}"/>
+      <div *ngIf="submitted && f.searchText.errors" class="invalid-feedback">
+        <div *ngIf="f.searchText.errors.required">Text is required</div>
+        <div *ngIf="f.searchText.errors.minlength">Min Length is 3</div>
+      </div>
+    </div>
+  </form>
+</div>
