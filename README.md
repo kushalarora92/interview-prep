@@ -8,6 +8,8 @@
 * [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/#constructorpatternjavascript)
 * ES6 syntax based - [JavaScript Design Patterns](https://medium.com/better-programming/javascript-design-patterns-25f0faaaa15)
 * [javascript-algorithm](https://github.com/trekhleb/javascript-algorithms)
+* [JavaScript Array splice vs slice](https://stackoverflow.com/questions/37601282/javascript-array-splice-vs-slice)
+* [The Difference Between in and hasOwnProperty in JavaScript](https://masteringjs.io/tutorials/fundamentals/hasownproperty)
 
 ## Underscore.js
   * [Function Debouncing with Underscore.js](https://davidwalsh.name/function-debounce)
