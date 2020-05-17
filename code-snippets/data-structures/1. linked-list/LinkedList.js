@@ -54,7 +54,7 @@ class LinkedList {
       return;
     }
 
-    this.deleteIfSingleElementList();
+    // this.deleteIfSingleElementList();
 
     if (this.head.value === value) {
       // first element
@@ -93,9 +93,10 @@ class LinkedList {
   deleteHead() {
     if (this.isEmpty()) return;
 
-    this.deleteIfSingleElementList();
+    let val = this.deleteIfSingleElementList();
+    if (val) { return val; } 
 
-    const val = this.head.value;
+    val = this.head.value;
     this.head = this.head.next;
     return val;
   }
@@ -103,9 +104,10 @@ class LinkedList {
   deleteTail() {
     if (this.isEmpty()) return;
 
-    this.deleteIfSingleElementList();
+    let val = this.deleteIfSingleElementList();
+    if (val) { return val; } 
 
-    const val = this.tail.value;
+    val = this.tail.value;
     
     let curr = this.head;
     while(curr.next != this.tail) {
