@@ -82,9 +82,10 @@ class LinkedList {
   isPalindromeSingleLoop(curr = this.head, queue = new QueueLL()) {
     if (curr == null) { return };
     queue.enqueue(curr.val);
-    this.isPalindromeSingleLoop(curr.next, queue);
-    if (curr.val !== queue.dequeue()) return false;
-    if (curr === this.head) return true; 
+    const bool = this.isPalindromeSingleLoop(curr.next, queue);
+    if (bool === false) { return false; }
+    if (curr.val !== queue.dequeue()) { return false; }
+    if (curr === this.head) {return true}; 
   }
 }
 
@@ -138,7 +139,7 @@ function initDriverCode() {
   ll.append('A');
   ll.append('R');
   ll.append('Oo');
-  ll.append('R');
+  ll.append('Ra');
   ll.append('A');
 
   return ll;
@@ -154,3 +155,17 @@ console.timeEnd('execution_time_isPalindrome');
 console.time('execution_time_isPalindromeSingleLoop');
 console.log(ll.isPalindromeSingleLoop());
 console.timeEnd('execution_time_isPalindromeSingleLoop');
+
+const arr = ll.toArray();
+console.time('execution_time_isArrayPalindrome');
+console.log(isArrayPalindrome(arr));
+console.timeEnd('execution_time_isArrayPalindrome');
+
+
+function isArrayPalindrome(arr = []) {
+  const n = arr.length;
+  for (let i=0, j = n-1; i < n/2; i++,j--) {
+    if (arr[i] != arr[j]) return false;
+  }
+  return true;
+}
