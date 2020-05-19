@@ -1,4 +1,4 @@
-export default function mergesort(arr) {
+module.exports = function mergesort(arr) {
   // find mid & split arrays by mid
   // repeat above step until arr.length <=1
 
