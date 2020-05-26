@@ -58,5 +58,5 @@ class BalancedParanthesis {
 
 const bp = new BalancedParanthesis();
 console.log(
-  bp.isBalanced('[](){}')
+  bp.isBalanced('[[]()]{}')
 );

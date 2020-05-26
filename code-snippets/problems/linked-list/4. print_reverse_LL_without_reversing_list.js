@@ -1,4 +1,4 @@
-// https://www.geeksforgeeks.org/function-to-check-if-a-singly-linked-list-is-palindrome/?ref=lbp
+// https://www.geeksforgeeks.org/print-reverse-of-a-linked-list-without-actually-reversing/?ref=lbp
 
 class Node {
   val;

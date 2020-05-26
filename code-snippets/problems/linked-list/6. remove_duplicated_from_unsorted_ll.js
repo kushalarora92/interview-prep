@@ -7,8 +7,6 @@
 
 // attempting method 2 with merge sort
 
-function 
-
 function MergeSort(ll) {
   if (ll.head === null || ll.head.next.next) { return ll; } 
   
