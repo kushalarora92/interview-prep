@@ -24,6 +24,7 @@
 ## CSS
 * [How to structure a Sass project](http://thesassway.com/beginner/how-to-structure-a-sass-project)
 * [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+* [Build Truly Dynamic Theme with CSS Variables](https://medium.com/angular-in-depth/build-truly-dynamic-theme-with-css-variables-539516e95837)
 
 ## ESLint
 * [Adding ESlint to Your Project](https://medium.com/dailyjs/adding-eslint-to-your-project-7bd4feca35a8)
