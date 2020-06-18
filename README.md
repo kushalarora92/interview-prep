@@ -93,6 +93,10 @@
 * [Thinking in react](https://reactjs.org/docs/thinking-in-react.html)
 * [Getting Started](https://reactjs.org/docs/getting-started.html)
 
+## React Native
+* [React Native: What it is and how it works](https://medium.com/we-talk-it/react-native-what-it-is-and-how-it-works-e2182d008f5e) - Summary ::: Additional links at the end of the article
+
+
 ## Database
 * [PostgreSQL vs MySQL: What's the Difference? ](https://www.guru99.com/postgresql-vs-mysql-difference.html)
 
