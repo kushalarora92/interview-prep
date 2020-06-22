@@ -1,3 +1,7 @@
+// https://practice.geeksforgeeks.org/problems/rotate-array-by-n-elements/0
+// https://practice.geeksforgeeks.org/viewSol.php?subId=38c1105eac6b928ca050cc42fa42bca3&pid=360&user=AfshanAyubi
+// https://www.geeksforgeeks.org/array-rotation/
+
 function rotateArrayClockwise(arr, r) {
   // oldArr-->newArr with corresponding indexes below
   // [1,2,3,4,5,6,7,8,9,10] --> [4,5,6,7,8,9,10,1,2,3]
