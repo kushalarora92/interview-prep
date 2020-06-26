@@ -112,6 +112,14 @@
 * Must Know --- [How to implement CSRF protection on a JWT-based app (Node, csurf , Angular)](https://medium.com/@d.silvas/how-to-implement-csrf-protection-on-a-jwt-based-app-node-csurf-angular-bb90af2a9efd)
 * [XSRF Protection with Angular](https://levelup.gitconnected.com/xsrf-protection-with-angular-and-express-d084c6e57da5)
 
+## JITSI
+* [npm - react-native-jitsi-meet](https://www.npmjs.com/package/react-native-jitsi-meet)
+* [jitsi/jitsi-meet](https://github.com/jitsi/jitsi-meet)
+* [Self-Hosting Guide](https://jitsi.github.io/handbook/docs/devops-guide/devops-guide-start)
+* [Jitsi Meet own installation tutorial - 2018](https://github.com/jitsi/jitsi-meet/issues/2531)
+* [How to Load Balance Jitsi Meet](https://jitsi.org/blog/tutorial-video-how-to-load-balance-jitsi-meet/)
+* [Brring - Setup up your own Jitsi Meet server in less than 15 minutes](https://www.brring.com/2020/04/04/setting-up-a-jitsi-server-in-less-than-15-minutes/)
+
 
 ## For Reference Only
 * [Logo Design](https://www.freelogodesign.org)
