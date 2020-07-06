@@ -25,6 +25,7 @@
 * [How to structure a Sass project](http://thesassway.com/beginner/how-to-structure-a-sass-project)
 * [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 * [Build Truly Dynamic Theme with CSS Variables](https://medium.com/angular-in-depth/build-truly-dynamic-theme-with-css-variables-539516e95837)
+* [The Best Parts of Bootstrap 4 You Are Missing in Angular Material](https://www.amadousall.com/the-good-parts-of-bootstrap-4-you-are-missing-in-your-angular-material-projects/)
 
 ## ESLint
 * [Adding ESlint to Your Project](https://medium.com/dailyjs/adding-eslint-to-your-project-7bd4feca35a8)
