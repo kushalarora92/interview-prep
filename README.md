@@ -31,6 +31,7 @@
 * [Adding ESlint to Your Project](https://medium.com/dailyjs/adding-eslint-to-your-project-7bd4feca35a8)
 * [Setting up ESLint on VS Code with Airbnb JavaScript Style Guide](https://travishorn.com/setting-up-eslint-on-vs-code-with-airbnb-javascript-style-guide-6eb78a535ba6)
 * [Why (and how) to use eslint in your project](https://medium.com/the-node-js-collection/why-and-how-to-use-eslint-in-your-project-742d0bc61ed7)
+* [Utilizing Git Hook by Using ESLint, Husky, and Lint-staged](https://medium.com/gits-apps-insight/utilizing-git-hook-by-using-eslint-husky-and-lint-staged-18b6f6f60f1e)
 
 ## Node
 * [Node Best Practices ](https://github.com/goldbergyoni/nodebestpractices)
