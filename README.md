@@ -113,6 +113,7 @@
 * Okishh --- [JWT authentication: When and how to use it](https://blog.logrocket.com/jwt-authentication-best-practices/)
 * Must Know --- [How to implement CSRF protection on a JWT-based app (Node, csurf , Angular)](https://medium.com/@d.silvas/how-to-implement-csrf-protection-on-a-jwt-based-app-node-csurf-angular-bb90af2a9efd)
 * [XSRF Protection with Angular](https://levelup.gitconnected.com/xsrf-protection-with-angular-and-express-d084c6e57da5)
+* [Where to Store your JWTs – Cookies vs HTML5 Web Storage](https://stackoverflow.com/a/36367799/2562435)
 
 ## JITSI
 * [npm - react-native-jitsi-meet](https://www.npmjs.com/package/react-native-jitsi-meet)
@@ -131,7 +132,7 @@
 
 ## Temp - To validate
 * [How To Build Authentication in Angular Using Node and Passport](https://blog.jscrambler.com/setting-up-authentication-using-angular-node-and-passport/)
-* [How to Protect Angular Code Against Theft and Reverse-Engineering](https://blog.jscrambler.com/how-to-protect-angular-code-against-theft-and-reverse-engineering/)
+* [How to Protect Angular Code Against Th eft and Reverse-Engineering](https://blog.jscrambler.com/how-to-protect-angular-code-against-theft-and-reverse-engineering/)
 * WIP --- sequelize-demo [Getting Started with Node, Express and Mysql Using Sequelize](https://medium.com/@prajramesh93/getting-started-with-node-express-and-mysql-using-sequelize-ed1225afc3e0)
 * [Adding Sequelize To Your Node.js App](https://medium.com/mtholla/integrating-sequelize-into-your-node-app-a446353fb5ee)
 * [Sequelize](https://sequelize.org/v5/index.html)
